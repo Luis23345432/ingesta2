@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "fecha_emision",
+    "Type": "date"
+  },
+  {
+    "Name": "payment_method",
+    "Type": "string"
+  },
+  {
+    "Name": "amount",
+    "Type": "float"
+  }
+]

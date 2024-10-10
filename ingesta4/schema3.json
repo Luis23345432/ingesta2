@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "promotion_id",
+    "Type": "string"
+  },
+  {
+    "Name": "ride_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "user_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "ride_cost",
+    "Type": "float"
+  },
+  {
+    "Name": "amount",
+    "Type": "float"
+  }
+]

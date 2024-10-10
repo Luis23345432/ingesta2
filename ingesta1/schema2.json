@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "ride_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "scooter_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "user_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "start_time",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "end_time",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "start_location",
+    "Type": "string"
+  },
+  {
+    "Name": "end_location",
+    "Type": "string"
+  },
+  {
+    "Name": "cost",
+    "Type": "float"
+  }
+]

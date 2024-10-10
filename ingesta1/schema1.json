@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "scooter_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "scooter_status",
+    "Type": "string"
+  },
+  {
+    "Name": "battery_level",
+    "Type": "float"
+  },
+  {
+    "Name": "location",
+    "Type": "string"
+  }
+]

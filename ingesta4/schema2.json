@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "codigo",
+    "Type": "string"
+  },
+  {
+    "Name": "porcentaje",
+    "Type": "float"
+  },
+  {
+    "Name": "start_date",
+    "Type": "date"
+  },
+  {
+    "Name": "end_date",
+    "Type": "date"
+  }
+]

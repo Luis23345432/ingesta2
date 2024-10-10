@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "tecnicoId",
+    "Type": "bigint"
+  },
+  {
+    "Name": "scooter_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "enter_date",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "finish_date",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "status",
+    "Type": "string"
+  }
+]

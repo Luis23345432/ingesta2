@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "rating",
+    "Type": "int"
+  },
+  {
+    "Name": "created_at",
+    "Type": "date"
+  },
+  {
+    "Name": "ride_id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "user_id",
+    "Type": "bigint"
+  }
+]

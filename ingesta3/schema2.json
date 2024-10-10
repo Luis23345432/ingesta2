@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "subscription_type",
+    "Type": "string"
+  },
+  {
+    "Name": "start_date",
+    "Type": "date"
+  },
+  {
+    "Name": "end_date",
+    "Type": "date"
+  },
+  {
+    "Name": "user_id",
+    "Type": "bigint"
+  }
+]

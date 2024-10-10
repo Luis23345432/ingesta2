@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "id",
+    "Type": "bigint"
+  },
+  {
+    "Name": "name",
+    "Type": "string"
+  }
+]
